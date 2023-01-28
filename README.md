@@ -1,10 +1,14 @@
-# Dell Inspiron 3437 OC EFI 
+# Overview 
 EFI for Dell Inspiron 3437 (i5 4200U and AR9565)
 # Hardware Detail
 - i5 4200U 1.6Ghz
 - 8GB DDR3L 1600Mhz
 - SSD or HDD (Need to know on your computer)
 - Dell Wireless 1705 (AR9565) This'll get super juicy
+# Features
+- IRQ Coflict intergrated (SSDT-HPET)
+- SSDT-XOSI (Windows 2013)
+- HS80211 and Atheros40 Patch are also in there!
 # Problem
 - Audio from AppleALCU not working [Aternetives from VoodooHDA-OC (Later in post-install)]
 - Wifi on Catalina on Hardware properties will show version null
