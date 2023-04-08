@@ -4,7 +4,7 @@ EFI for Dell Inspiron 3437 (i5 4200U and AR9565)
 - i5 4200U 1.6Ghz
 - 8GB DDR3L 1600Mhz
 - Internal SSD or HDD (Recommend SSD) [Already have :)]
-- Dell Wireless 1705 (Slow and Weak. Not recommend)
+- Dell Wireless 1705 or AR9565 (Slow, Weak. Not Recommended) (But working if you're poor)
 # Features
 - IRQ Coflict intergrated (SSDT-HPET)
 - SSDT-XOSI (Windows 2013)
