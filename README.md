@@ -20,8 +20,8 @@ EFI for Dell Inspiron 3437 (i5 4200U and AR9565)
 - Download EFI from Releses
 - 1. Install MacOS installation on USB via BalenaEtcher (Windows / MacOS)
 - 2. Or use the MacOS recovery on OpencorePkg
-- Boot into Install!
-- Format the drive to APFS and install (take around 15-30 minutes)
+- Boot into Installer!!!
+- Format the drive to APFS and install (take around 15-60 minutes)
 # Post-Install
 Now once you set all up and get to the desktop you'll see some problem:
 - Backlight slider not working (PNLF doesn't work) (Will fix on newer OC releases)
